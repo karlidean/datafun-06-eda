@@ -29,3 +29,12 @@ pip install --upgrade -r requirements.txt
 ## Creating the Jupyter Notebook
 1. Created a file while in VS Code called `karlidean_eda.ipynb` to run my EDA project with.
 2. Add - Commit - Push
+3. Annotated the notebook by writing titles, bylines, and purpose statements
+4. Imported packages like numpy and pandas using the following code:
+```shell
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+import numpy as np
+```
+5. Add - Commit - Push
