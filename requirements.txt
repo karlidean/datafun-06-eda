@@ -343,3 +343,10 @@ seaborn
 
 # For request validation and serialization in FastAPI (5-10 MB)
 # pydantic     
+
+# Adding requirements contents from Dr. Case's repo datafun-06-spec:
+jupyterlab
+pandas
+pyarrow
+matplotlib
+seaborn
