@@ -23,3 +23,9 @@ pip install --upgrade setuptools wheel
 pip install --upgrade -r requirements.txt
 ```
 7. Add - Commit - Push
+8. Added other requirements from Dr. Case's Week 6 example repo
+   1. These were mainly packages we will need to be able to use.
+
+## Creating the Jupyter Notebook
+1. Created a file while in VS Code called `karlidean-eda.ipynb` to run my EDA project with.
+2. Add - Commit - Push
