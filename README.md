@@ -38,3 +38,14 @@ import seaborn as sns
 import numpy as np
 ```
 5. Add - Commit - Push
+
+## Choosing My Data Set
+I chose a data set from the NCAA for this project. I went to the link below and input the 2024-2025 Division II Volleyball season as the data I wanted to pull. These should be the season stats for each team.
+[NCAA Division II Season Stats (2024-2025)](https://web1.ncaa.org/stats/StatsSrv/rankings)
+- Unfortunately, each stat was given to me as separate tables within a CSV, so I merged them all together in Excel to create the dataset I will be working with.
+1. Once I found and compiled my dataset, I created a data folder in my repo.
+   1. I then proceeded to add my dataset CSV to this repo.
+   2. This is Option 1 (the safe way) from the directions. I believe this is easier for an internal DataFrame document.
+2. Added the CSV to my Jupyter Notebook
+3. Used the head, describe, shape, and dtypes functions to start my initial analysis
+4. Add - Commit - Push
