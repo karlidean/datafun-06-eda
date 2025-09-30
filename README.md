@@ -60,3 +60,5 @@ I chose a data set from the NCAA for this project. I went to the link below and 
    1. This was the same outline I used for the Week 4 project
    2. Up to this point I have completed the "Descriptive Statistics" section
 2. Add - Commit - Push
+3. Completed up through data distributions for numerical and categorical columns
+4. Add - Commit - Push
