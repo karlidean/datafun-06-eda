@@ -57,5 +57,6 @@ I chose a data set from the NCAA for this project. I went to the link below and 
 
 ## Completing the Project
 1. Outlined my project to define where I want to go (process-wise)
-   1. This was the same outline I used for the Week 4 project.
+   1. This was the same outline I used for the Week 4 project
+   2. Up to this point I have completed the "Descriptive Statistics" section
 2. Add - Commit - Push
