@@ -41,8 +41,13 @@ import numpy as np
 
 ## Choosing My Data Set
 I chose a data set from the NCAA for this project. I went to the link below and input the 2024-2025 Division II Volleyball season as the data I wanted to pull. These should be the season stats for each team.
-[NCAA Division II Season Stats (2024-2025)](https://web1.ncaa.org/stats/StatsSrv/rankings)
+[NCAA Division II Season Stats (2024-2025)](https://web1.ncaa.org/stats/StatsSrv/rankings?doWhat=archive&sportCode=WVB)
 - Unfortunately, each stat was given to me as separate tables within a CSV, so I merged them all together in Excel to create the dataset I will be working with.
+- In this link, you will only need to follow the path:
+  - Select "2024-2025" > View
+  - Select Division II > Through Games 12/14/2024 (Final)
+  - Select "All Statistics" in the Team Category
+  - Export to CSV "Show Report"
 1. Once I found and compiled my dataset, I created a data folder in my repo.
    1. I then proceeded to add my dataset CSV to this repo.
    2. This is Option 1 (the safe way) from the directions. I believe this is easier for an internal DataFrame document.
