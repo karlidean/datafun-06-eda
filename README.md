@@ -54,3 +54,8 @@ I chose a data set from the NCAA for this project. I went to the link below and 
 2. Added the CSV to my Jupyter Notebook
 3. Used the head, describe, shape, and dtypes functions to start my initial analysis
 4. Add - Commit - Push
+
+## Completing the Project
+1. Outlined my project to define where I want to go (process-wise)
+   1. This was the same outline I used for the Week 4 project.
+2. Add - Commit - Push
