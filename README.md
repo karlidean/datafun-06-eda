@@ -62,3 +62,7 @@ I chose a data set from the NCAA for this project. I went to the link below and 
 2. Add - Commit - Push
 3. Completed up through data distributions for numerical and categorical columns
 4. Add - Commit - Push
+5. Added a new data set: `glvc_stats.csv` that details the same statistical categories, but only for the Great Lakes Valley Conference
+   1. This dataset was acquired by filtering the original data set by conference.
+6. I also completed the data analysis portion without annotations during this open session.
+7. Add - Commit - Push
