@@ -66,3 +66,5 @@ I chose a data set from the NCAA for this project. I went to the link below and 
    1. This dataset was acquired by filtering the original data set by conference.
 6. I also completed the data analysis portion without annotations during this open session.
 7. Add - Commit - Push
+8. Completed my annotations for this project.
+9. Add - Commit - Push
